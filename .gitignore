@@ -1,4 +1,7 @@
 .\idea
+
 *.pyc
 *.pyd
 *.co
+
+test.*
