@@ -48,7 +48,7 @@ Recaptcha配置(NekoBlog/configs/recaptcha.json)
 ```json
 {
   "enable": false,
-  "key": "填入"
+  "key": "填入Recaptcha配置秘钥"
 }
 ```
 ![img.png](doc/img.png)
