@@ -8,7 +8,8 @@ pip install -r requirements.txt
 ```
 
 <hr>
-本项目仅为RESET API<br>
+本项目仅为RESET API
+
 环境要求: Python >= 3.9.0, MySQL >= 5.7.26 , MySQL引擎 = MyISAM
 <hr>
 
@@ -51,6 +52,18 @@ Recaptcha配置(NekoBlog/configs/recaptcha.json)
 }
 ```
 ![img.png](doc/img.png)
+
+<hr>
+
+## RSA证书配置(NekoBlog/keys)
+
+请将
+
+RSA公钥命名为rsa_public_key.pem
+
+RSA私钥命名为rsa_private_key.pem
+
+并置于 NekoBlog/keys 目录下
 
 <hr>
 
