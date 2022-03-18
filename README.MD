@@ -1,4 +1,4 @@
-<h2><div style="text-align: center">NekoBlog</div></h2>
+<div style="text-align: center"><h2>NekoBlog Backend</h2></div>
 
 ![Python](https://img.shields.io/badge/Python-3.9-brightgreen) [![LICENSE](https://img.shields.io/badge/LICENSE-AGPL3.0-brightgreen)](./LICENSE "LICENSE")
 
@@ -8,9 +8,8 @@ pip install -r requirements.txt
 ```
 
 <hr>
-
+本项目仅为RESET API<br>
 环境要求: Python >= 3.9.0, MySQL >= 5.7.26 , MySQL引擎 = MyISAM
-
 <hr>
 
 运行
